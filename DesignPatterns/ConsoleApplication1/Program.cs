@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-
+    public class Page2
+    {
+ 
+    }
     public class Page1
     {
         public Page1()
